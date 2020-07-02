@@ -9,6 +9,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "express-gql": "0.0.4",
+    "express-graphql": "^0.9.0",
+    "graphql": "^15.2.0",
+    "lodash": "^4.17.15",
+    "mongoose": "^5.9.21"
   }
 }
